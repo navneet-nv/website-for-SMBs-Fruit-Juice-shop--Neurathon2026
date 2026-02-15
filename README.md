@@ -1,4 +1,4 @@
-# 🎨 Bharat Biz-Agent - AI-Powered Business Assistant
+# 🎨 AI Co-pilot for Small and Medium Businesses
 
 **An autonomous AI co-pilot for Indian Small and Medium Businesses (SMBs)**
 
